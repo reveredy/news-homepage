@@ -2,6 +2,8 @@
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
+Para ver o projeto finalizado acesse:  reveredy.github.io/news-homepage
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.

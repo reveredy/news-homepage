@@ -2,7 +2,7 @@
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
-Para ver o projeto finalizado acesse:  reveredy.github.io/news-homepage
+Para ver o projeto finalizado:  <a href"reveredy.github.io/news-homepage">Acesse aqui</a>
 
 ## Welcome! 👋
 
